@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "configVersion": 4,
+  "configVersion": 5,
   "remoteConfigUrl": "https://raw.githubusercontent.com/godvmxi/VisioIridisConfig/refs/heads/master/model_config.json",
   "languages": [
     { "id": "zh",    "name": "普通话", "defaultEnabled": true,  "order": 1 },
@@ -90,7 +90,10 @@
       ],
       "languages": [
         { "lang": "zh",    "score": 7, "decodeParam": "" },
-        { "lang": "henan", "score": 9, "decodeParam": "" }
+        { "lang": "henan", "score": 9, "decodeParam": "" },
+        { "lang": "yue",   "score": 5, "decodeParam": "" },
+        { "lang": "chuan", "score": 5, "decodeParam": "" },
+        { "lang": "wu",    "score": 5, "decodeParam": "" }
       ],
       "autoDecodeParam": ""
     },

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "configVersion": 5,
+  "configVersion": 6,
   "remoteConfigUrl": "https://raw.giteeusercontent.com/godvmxi/VisioIridisConfig/raw/master/model_config_cn.json",
   "languages": [
     {
@@ -159,6 +159,21 @@
         {
           "lang": "henan",
           "score": 9,
+          "decodeParam": ""
+        },
+        {
+          "lang": "yue",
+          "score": 5,
+          "decodeParam": ""
+        },
+        {
+          "lang": "chuan",
+          "score": 5,
+          "decodeParam": ""
+        },
+        {
+          "lang": "wu",
+          "score": 5,
           "decodeParam": ""
         }
       ],
